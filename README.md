@@ -16,8 +16,8 @@
      <br>
      [![Flutter - Status Saver](https://img.shields.io/badge/Flutter-Status_Saver-2ea44f?logo=flutter&logoColor=blue)](https://github.com/xsadra/whatsapp-status-saver)
       <!-- [![issues - badge-generator](https://img.shields.io/github/issues/xsadra/whatsapp-status-saver)](https://github.com/xsadra/whatsapp-status-saver/issues) --> <br>
-     [![Java - PhotoCoding](https://img.shields.io/badge/Java-PhotoCoding-blue?logo=Java&logoColor=white)](https://github.com/xsadra/clash-royale-assistant)<br>
-     [![Website - sadra.at](https://img.shields.io/badge/Website-sadra.at-important?logo=php&logoColor=lightblue)](https://github.com/xsadra/clash-royale-assistant)
+     [![Java - PhotoCoding](https://img.shields.io/badge/Java-PhotoCoding-blue?logo=Java&logoColor=white)](https://github.com/KING-0-CODE/photo-coding)<br>
+     [![Website - sadra.at](https://img.shields.io/badge/Website-sadra.at-important?logo=php&logoColor=lightblue)](https://HOME.SADRA.AT)
      
 
  <!--   ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=xsadra&repo=whatsapp-status-saver) -->
