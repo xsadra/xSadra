@@ -5,3 +5,6 @@
 - 👯 I’m looking to collaborate on Flutter projects
 - 📫 How to reach me: ["message me"]("https://sadra.at/c")
 
+
+![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsadra&hide=contribs&count_private=true&show_icons=true&show_owner=true)
+
