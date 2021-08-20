@@ -10,6 +10,7 @@
 
      [![Flutter - CR Assistant](https://img.shields.io/badge/Flutter-CR_Assistant-2ea44f?logo=flutter&logoColor=blue)](https://github.com/xsadra/clash-royale-assistant)
      [![issues - badge-generator](https://img.shields.io/github/issues/xsadra/clash-royale-assistant)](https://github.com/xsadra/clash-royale-assistant/issues)
+     [![Updated Badge](https://badges.pufler.dev/updated/puf17640/git-badges)](https://github.com/xsadra/clash-royale-assistant)
      [![GitHub tag](https://img.shields.io/github/tag/xsadra/clash-royale-assistant?include_prereleases=&sort=semver)](https://github.com/xsadra/clash-royale-assistant/releases/)
      <br>
      [![Flutter - Status Saver](https://img.shields.io/badge/Flutter-Status_Saver-2ea44f?logo=flutter&logoColor=blue)](https://github.com/xsadra/whatsapp-status-saver)
@@ -46,5 +47,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xsadra.xsadra)
 ![Years Badge](https://badges.pufler.dev/years/xsadra)
+![Repos Badge](https://badges.pufler.dev/repos/xsadra)
+![Gists Badge](https://badges.pufler.dev/gists/xsadra)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/xsadra) 
  
 </div>
