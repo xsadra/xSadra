@@ -25,13 +25,13 @@
   
 - <img src="https://user-images.githubusercontent.com/31988724/130283762-77d956e9-87fa-42cb-a96c-61d2cb1b0dc5.png" width="30">  I’m currently learning:
 
-     [![lang - Flutter/Dart](https://img.shields.io/badge/lang-Flutter%2FDart-2ea44f?logo=flutter&logoColor=blue)](https://github.com/xsadra/clash-royale-assistant)
+     ![lang - Flutter/Dart](https://img.shields.io/badge/lang-Flutter%2FDart-2ea44f?logo=flutter&logoColor=blue)
 
 - <img src="https://user-images.githubusercontent.com/31988724/130284278-c776bd2e-4d31-444a-a6c5-704bcdbf7eee.gif" width="30">  I’m looking to collaborate on:
 
-     [![lang - Flutter/Dart](https://img.shields.io/badge/Project-Flutter-2ea44f?logo=flutter&logoColor=blue)](https://github.com/xsadra/clash-royale-assistant)
+     ![lang - Flutter/Dart](https://img.shields.io/badge/Project-Flutter-2ea44f?logo=flutter&logoColor=blue)
 
-- 📫 How to reach me: [message me](https://sadra.at/c)
+- 📫 How to reach me: ['Message Me'](https://sadra.at/c)
 
 <h2 align="Center"> </h3>
 <!--  ![Sadra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xsadra)  -->
