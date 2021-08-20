@@ -32,12 +32,19 @@
 - 📫 How to reach me: [message me](https://sadra.at/c)
 
 <h2 align="Center"> </h3>
-
 <!--  ![Sadra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xsadra)  -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsadra&hide=shell,batchfile,css,objective-c&langs_count=8&layout=compact)
+![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsadra&hide=contribs&count_private=true&show_icons=true&show_owner=true&hide_border=true)
 
+<h2 align="Center"  width="55%"> </h3>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsadra&hide=shell,batchfile,css,objective-c&langs_count=8&layout=compact&hide_border=true)
 
-![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsadra&hide=contribs&count_private=true&show_icons=true&show_owner=true)
+<h2 align="Center"  width="55%"> </h3>
 
+<div align="right">
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=xsadra.xsadra)
+![Years Badge](https://badges.pufler.dev/years/xsadra)
+ 
+</div>
