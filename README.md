@@ -45,11 +45,12 @@
 <h2 align="Center"  width="55%"> </h3>
 
 <div align="right">
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=xsadra.xsadra)
-![Years Badge](https://badges.pufler.dev/years/xsadra)
-![Repos Badge](https://badges.pufler.dev/repos/xsadra)
+ 
 ![Commits Badge](https://badges.pufler.dev/commits/monthly/xsadra) 
+![Repos Badge](https://badges.pufler.dev/repos/xsadra)
+![Years Badge](https://badges.pufler.dev/years/xsadra)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=xsadra.xsadra)
+
  <!-- ![Gists Badge](https://badges.pufler.dev/gists/xsadra) -->
  
 </div>
