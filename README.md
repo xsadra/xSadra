@@ -1,8 +1,9 @@
 <h2 align="Center">  Hi there <img src="https://user-images.githubusercontent.com/31988724/130261151-752ea87e-3adc-4788-a126-2a183d9a8ca9.gif" width="32"> </h3>
-
-
-
+<div align="center">
  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230C2962D7&lines=I'm+a+full-stack+mobile+developer.;Creating+Apps+with+Flutter%2FDart.;Back-end+with+Java+or+Firebase.)](https://git.io/typing-svg)
+
+ </div>
 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on:   
 
