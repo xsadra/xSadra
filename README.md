@@ -9,10 +9,10 @@
 
 
      [![Flutter - CR Assistant](https://img.shields.io/badge/Flutter-CR_Assistant-2ea44f?logo=flutter&logoColor=blue)](https://github.com/xsadra/clash-royale-assistant)
-     [![issues - badge-generator](https://img.shields.io/github/issues/xsadra/clash-royale-assistant)](https://github.com/xsadra/clash-royale-assistant/issues)
-     [![Updated Badge](https://badges.pufler.dev/updated/xsadra/clash-royale-assistant)](https://github.com/xsadra/clash-royale-assistant)
-     ![Lines of code](https://img.shields.io/tokei/lines/github/xsadra/clash-royale-assistant)
-     [![GitHub tag](https://img.shields.io/github/tag/xsadra/clash-royale-assistant?include_prereleases=&sort=semver)](https://github.com/xsadra/clash-royale-assistant/releases/)
+     ![issues - badge-generator](https://img.shields.io/github/issues/xsadra/clash-royale-assistant?a=0)
+     ![Updated Badge](https://badges.pufler.dev/updated/xsadra/clash-royale-assistant?a=0)
+     ![Lines of code](https://img.shields.io/tokei/lines/github/xsadra/clash-royale-assistant?a=0)
+     [![GitHub tag](https://img.shields.io/github/tag/xsadra/clash-royale-assistant?include_prereleases=&sort=semver?a=0)](https://github.com/xsadra/clash-royale-assistant/releases/)
      <br>
      [![Flutter - Status Saver](https://img.shields.io/badge/Flutter-Status_Saver-2ea44f?logo=flutter&logoColor=blue)](https://github.com/xsadra/whatsapp-status-saver)
      ![Visibility - Private](https://img.shields.io/badge/Visibility-Private-red)
@@ -49,9 +49,9 @@
 
 <div align="right">
  
-![Commits Badge](https://badges.pufler.dev/commits/monthly/xsadra) 
-![Repos Badge](https://badges.pufler.dev/repos/xsadra)
-![Years Badge](https://badges.pufler.dev/years/xsadra)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/xsadra?a=0) 
+![Repos Badge](https://badges.pufler.dev/repos/xsadra?a=0)
+![Years Badge](https://badges.pufler.dev/years/xsadra?a=0)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xsadra.xsadra)
 
  <!-- ![Gists Badge](https://badges.pufler.dev/gists/xsadra) -->
