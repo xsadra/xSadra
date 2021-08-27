@@ -42,7 +42,7 @@
 <h2 align="Center"> </h3>
 <!--  ![Sadra's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xsadra)  -->
 
-<img top="30%" width="45%" align="right" alt="Most Used Language in last 7 days" src="https://wakatime.com/share/@sadra/5cabdf28-b0d6-485e-aeff-f8532814995e.png" title="Most Used Language in last 7 days" />
+<img top="30%" width="40%" align="right" alt="Most Used Language in last 7 days" src="https://wakatime.com/share/@sadra/5cabdf28-b0d6-485e-aeff-f8532814995e.png" title="Most Used Language in last 7 days" />
 
 
 ![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsadra&hide=contribs&count_private=true&show_icons=true&show_owner=true&hide_border=true)
