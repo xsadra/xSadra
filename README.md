@@ -44,9 +44,11 @@
 
 <img top="30%" width="40%" align="right" alt="Most Used Language in last 7 days" src="https://wakatime.com/share/@sadra/5cabdf28-b0d6-485e-aeff-f8532814995e.png" title="Most Used Language in last 7 days" />
 
-
+<div width="40%">
+ 
 ![Sadra's GitHub stats](https://github-readme-stats.vercel.app/api?username=xsadra&hide=contribs&count_private=true&show_icons=true&show_owner=true&hide_border=true)
 
+ </div>
 <h2 align="Center"  width="55%"> </h3>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xsadra&hide=shell,batchfile,css,objective-c&langs_count=8&layout=compact&hide_border=true)
