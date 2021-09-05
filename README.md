@@ -9,15 +9,15 @@
 
 
      [![Flutter - CR Assistant](https://img.shields.io/badge/Flutter-CR_Assistant-2ea44f?logo=flutter&logoColor=blue)](https://github.com/xsadra/clash-royale-assistant)
-     ![issues - badge-generator](https://img.shields.io/github/issues/xsadra/clash-royale-assistant?cacheSeconds=3600)
-     ![Updated Badge](https://badges.pufler.dev/updated/xsadra/clash-royale-assistant?cacheSeconds=3600)
-     ![Lines of code](https://img.shields.io/tokei/lines/github/xsadra/clash-royale-assistant?cacheSeconds=3600)
-     [![GitHub tag](https://img.shields.io/github/tag/xsadra/clash-royale-assistant?include_prereleases=&sort=semver?cacheSeconds=3600)](https://github.com/xsadra/clash-royale-assistant/releases/)
+     ![issues - badge-generator](https://img.shields.io/github/issues/xsadra/clash-royale-assistant?)
+     ![Updated Badge](https://badges.pufler.dev/updated/xsadra/clash-royale-assistant?)
+     ![Lines of code](https://img.shields.io/tokei/lines/github/xsadra/clash-royale-assistant?)
+     [![GitHub tag](https://img.shields.io/github/tag/xsadra/clash-royale-assistant?include_prereleases=&sort=semver&cacheSeconds=3600)](https://github.com/xsadra/clash-royale-assistant/releases/)
      <br>
      [![Flutter - Status Saver](https://img.shields.io/badge/Flutter-Status_Saver-2ea44f?logo=flutter&logoColor=blue)](https://github.com/xsadra/whatsapp-status-saver)
-     ![issues - badge-generator](https://img.shields.io/github/issues/xsadra/whatsapp-status-saver?cacheSeconds=3600)
-     ![Updated Badge](https://badges.pufler.dev/updated/xsadra/whatsapp-status-saver?cacheSeconds=3600)
-     ![Lines of code](https://img.shields.io/tokei/lines/github/xsadra/whatsapp-status-saver?cacheSeconds=3600)
+     ![issues - badge-generator](https://img.shields.io/github/issues/xsadra/whatsapp-status-saver?)
+     ![Updated Badge](https://badges.pufler.dev/updated/xsadra/whatsapp-status-saver?)
+     ![Lines of code](https://img.shields.io/tokei/lines/github/xsadra/whatsapp-status-saver?)
      ![Visibility - Temporary Public](https://img.shields.io/badge/Visibility-Temporary%20Public-green)
       <!-- [![issues - badge-generator](https://img.shields.io/github/issues/xsadra/whatsapp-status-saver)](https://github.com/xsadra/whatsapp-status-saver/issues) --> <br>
      [![Java - PhotoCoding](https://img.shields.io/badge/Java-PhotoCoding-blue?logo=Java&logoColor=white)](https://github.com/KING-0-CODE/photo-coding)
@@ -57,9 +57,9 @@
 
 <div align="right">
  
-![Commits Badge](https://badges.pufler.dev/commits/monthly/xsadra?cacheSeconds=3600) 
-![Repos Badge](https://badges.pufler.dev/repos/xsadra?cacheSeconds=3600)
-![Years Badge](https://badges.pufler.dev/years/xsadra?cacheSeconds=3600)
+![Commits Badge](https://badges.pufler.dev/commits/monthly/xsadra؟) 
+![Repos Badge](https://badges.pufler.dev/repos/xsadra?)
+![Years Badge](https://badges.pufler.dev/years/xsadra?)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xsadra.xsadra)
 
  <!-- ![Gists Badge](https://badges.pufler.dev/gists/xsadra) -->
