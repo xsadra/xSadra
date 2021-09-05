@@ -57,7 +57,7 @@
 
 <div align="right">
  
-![Commits Badge](https://badges.pufler.dev/commits/monthly/xsadra؟) 
+![Commits Badge](https://badges.pufler.dev/commits/monthly/xsadra?) 
 ![Repos Badge](https://badges.pufler.dev/repos/xsadra?)
 ![Years Badge](https://badges.pufler.dev/years/xsadra?)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xsadra.xsadra)
